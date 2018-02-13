@@ -1,0 +1,10 @@
+'regular': 13, 'expression': 5, '': 76, 'or':
+8, 're': 2, 'specifies': 1, 'set': 1, 'of': 7,
+'strings': 2, 'that': 1, 'matches': 6, 'it': 1, 'the': 12, 'functions': 1, 'in': 5, 'this': 4, 'module': 1, 'let': 1, 'you': 2, 'check': 1, 'if': 4, 'particular': 2, 'string': 6, 'given':
+2, 'which': 1, 'comes': 1, 'down': 1, 'to': 3,
+'same': 1, 'thing': 1, 'expressions': 10, 'can': 4, 'be': 3, 'concatenated': 1, 'form': 1, 'new': 1, 'and': 7, 'are': 4, 'both': 2, 'then': 1, 'ab': 2, 'is': 1, 'also': 1, 'general': 1, 'another': 1, 'pq': 1, 'will': 1, 'match': 2, 'holds': 1, 'unless': 1, 'contain': 2, 'low': 1, 'precedence': 1, 'operations': 1, 'boundary': 1, 'conditions': 1, 'between': 1, 'have': 1, 'numbered': 1, 'group': 1, 'references': 1, 'thus': 1, 'complex': 1, 'easily': 1, 'constructed': 1, 'from': 1, 'simpler': 1, 'primitive': 1, 'like': 3, 'ones': 1, 'described': 1, 'here': 1, 'for': 3, 'details': 1, 'theory': 1, 'implementation': 1, 'consult': 2, 'friedl': 1, 'book': 1,
+'referenced': 1, 'above': 1, 'almost': 1, 'any': 1, 'textbook': 1, 'about': 1, 'compiler': 1,
+'construction': 1, 'brief': 1, 'explanation': 1, 'format': 1, 'follows': 1, 'further': 1, 'information': 1, 'gentler': 1, 'presentation': 1,
+'howto': 1, 'special': 4, 'ordinary': 4, 'characters': 6, 'most': 1, 'simplest': 1, 'they': 1, 'simply': 1, 'themselves': 1, 'concatenate': 1, 'so': 1, 'last': 2, 'rest': 1, 'section': 1,
+'we': 1, 'll': 1, 'write': 1, 'style': 1, 'usually': 1, 'without': 1, 'quotes': 2, 'matched':
+1, 'single': 1, 'some': 1, 'either': 1, 'stand': 1, 'classes': 1, 'affect': 1, 'how': 1, 'around': 1, 'them': 1, 'interpreted': 1}
